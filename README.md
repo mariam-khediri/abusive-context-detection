@@ -10,6 +10,7 @@ This project aims to detect hate speech and offensive language in text using a c
 
 abusive-context-detection/
 ├── data/                  # Raw and cleaned datasets
+├── image/
 ├── notebooks/             # EDA and experiments
 ├── src/
 │   ├── preprocessing/     # Tokenization, lemmatization, text cleaning
