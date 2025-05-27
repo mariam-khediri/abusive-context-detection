@@ -65,7 +65,7 @@ python app/interface.py
 
 ## 📊 Dataset
 
-* **Source**: [Kaggle - Hate Speech and Offensive Language Dataset](https://www.kaggle.com/datasets/lisphilar/hate-speech-and-offensive-language-dataset)
+* **Source**: [Kaggle - Hate Speech and Offensive Language Dataset](https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset/data)
 
 ---
 
